@@ -1,0 +1,50 @@
+{
+  "social": {
+    "facebook": "https://www.facebook.com/profile.php?id=61577453533323",
+    "whatsapp": "https://wa.me/8801571748528",
+    "youtube": "https://www.youtube.com/@joynalacademy4192"
+  },
+  "slides": [
+    {
+      "image": "asset/images/Thumbnail.png",
+      "alt": "Arts Commerce Academic Batch 2026",
+      "url": "https://aparsclassroom.com/shop/course/bup-fst-admission-course-2026",
+      "overlayClass": "bg-black/40"
+    },
+    {
+      "image": "asset/images/Thumbnail (1).png",
+      "alt": "2nd Timer Restart Bacth",
+      "url": "https://aparsclassroom.com/shop/course/bup-2nd-timer-group-change-2026",
+      "overlayClass": "bg-blue-900/40"
+    },
+    {
+      "image": "asset/images/Thumbnail (2).png",
+      "alt": "BUP FST Admission Course 2026",
+      "url": "https://aparsclassroom.com/shop/course/group-change-unit-admission-program",
+      "overlayClass": "bg-blue-800/40"
+    }
+  ],
+  "courses": [
+    {
+      "title": "BUP FST Admission Course 2026",
+      "description": "If your target is BUP (Faculty of Science and Technology), enroll in this course to maximize your chances.",
+      "image": "asset/images/BUPFST.png",
+      "buttonText": "Learn More",
+      "link": "https://aparsclassroom.com/shop/course/bup-fst-admission-course-2026"
+    },
+    {
+      "title": "BUP 2nd Timer Group Change 2026",
+      "description": "Specialized support for second-time applicants with targeted preparation strategies.",
+      "image": "asset/images/BUPFST.png",
+      "buttonText": "Discover More",
+      "link": "https://aparsclassroom.com/shop/course/bup-2nd-timer-group-change-2026"
+    },
+    {
+      "title": "Group Change Unit Admission Program",
+      "description": "Flexible group change options to suit your individual needs. Join our supportive community.",
+      "image": "asset/images/BUPFST.png",
+      "buttonText": "Join Now",
+      "link": "https://aparsclassroom.com/shop/course/group-change-unit-admission-program"
+    }
+  ]
+}

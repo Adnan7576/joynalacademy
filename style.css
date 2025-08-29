@@ -1,0 +1,22 @@
+/* Animation for fade-in-up */
+@keyframes fade-in-up { 0% { opacity:0; transform:translateY(20px);} 100% {opacity:1; transform:translateY(0);} }
+.animate-fade-in-up { animation: fade-in-up 1s ease forwards; }
+.animation-delay-200 { animation-delay:0.2s; }
+.animation-delay-400 { animation-delay:0.4s; }
+
+/* Drawer transition */
+#drawer { transform: translateX(100%); transition: transform 0.4s ease-in-out; }
+#drawer.active { transform: translateX(0); }
+
+/* Overlay */
+#overlay { background-color: rgba(0,0,0,0.5); backdrop-filter: blur(4px); }
+
+/* Staggered fade-in for drawer items */
+.drawer-link { opacity: 0; transform: translateX(20px); transition: all 0.3s ease; }
+.drawer-link.show { opacity:1; transform: translateX(0); }
+
+/* Swiper navigation button styling */
+.swiper-button-next, .swiper-button-prev { color: white; transition: transform 0.3s ease; }
+.swiper-button-next:hover, .swiper-button-prev:hover { transform: scale(1.1); }
+.swiper-pagination-bullet { background: white; opacity:0.6; }
+.swiper-pagination-bullet-active { background: #10b981; opacity:1; }
