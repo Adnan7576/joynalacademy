@@ -1,50 +1,75 @@
 {
   "social": {
-    "facebook": "https://www.facebook.com/profile.php?id=61577453533323",
+    "facebook": "https://facebook.com/joynalacademy",
     "whatsapp": "https://wa.me/8801571748528",
-    "youtube": "https://www.youtube.com/@joynalacademy4192"
+    "youtube": "https://youtube.com/joynalacademy"
   },
   "slides": [
     {
-      "image": "asset/images/Thumbnail.png",
-      "alt": "Arts Commerce Academic Batch 2026",
-      "url": "https://aparsclassroom.com/shop/course/bup-fst-admission-course-2026",
-      "overlayClass": "bg-black/40"
+      "image": "asset/images/Thumbnail/Academic 2026.png",
+      "alt": "Thumbnail of academic 2026 batch",
+      "url": "https://joynalacademy.com",
+      "overlayClass": "bg-black bg-opacity-50"
     },
     {
-      "image": "asset/images/Thumbnail (1).png",
-      "alt": "2nd Timer Restart Bacth",
-      "url": "https://aparsclassroom.com/shop/course/bup-2nd-timer-group-change-2026",
-      "overlayClass": "bg-blue-900/40"
+      "image": "asset/images/Thumbnail/2nd timer.png",
+      "alt": "Thumbnail of 2nd timer restart batch",
+      "url": "https://joynalacademy.com",
+      "overlayClass": "bg-black bg-opacity-40"
     },
     {
-      "image": "asset/images/Thumbnail (2).png",
-      "alt": "BUP FST Admission Course 2026",
-      "url": "https://aparsclassroom.com/shop/course/group-change-unit-admission-program",
-      "overlayClass": "bg-blue-800/40"
+      "image": "asset/images/Thumbnail/BUP FST.png",
+      "alt": "Thumbnail of BUP FST",
+      "url": "https://joynalacademy.com",
+      "overlayClass": "bg-black bg-opacity-30"
     }
   ],
   "courses": [
+
     {
-      "title": "BUP FST Admission Course 2026",
-      "description": "If your target is BUP (Faculty of Science and Technology), enroll in this course to maximize your chances.",
-      "image": "asset/images/BUPFST.png",
-      "buttonText": "Learn More",
-      "link": "https://aparsclassroom.com/shop/course/bup-fst-admission-course-2026"
+      "title": "BUP FST Admission 2026",
+      "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "image": "asset/images/Logo/BUPFST.png",
+      "link": "https://joynal.academy",
+      "buttonText": "Enroll Now"
     },
     {
-      "title": "BUP 2nd Timer Group Change 2026",
-      "description": "Specialized support for second-time applicants with targeted preparation strategies.",
-      "image": "asset/images/BUPFST.png",
-      "buttonText": "Discover More",
-      "link": "https://aparsclassroom.com/shop/course/bup-2nd-timer-group-change-2026"
+      "title": "2nd Timer Restart Batch 2025",
+      "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "image": "asset/images/Logo/JA logo.png",
+      "link": "https://joynal.academy",
+      "buttonText": "Enroll Now"
     },
     {
-      "title": "Group Change Unit Admission Program",
-      "description": "Flexible group change options to suit your individual needs. Join our supportive community.",
-      "image": "asset/images/BUPFST.png",
-      "buttonText": "Join Now",
-      "link": "https://aparsclassroom.com/shop/course/group-change-unit-admission-program"
+      "title": "BUP FST Exam Batch 2026",
+      "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "image": "asset/images/Logo/BUPFST.png",
+      "link": "https://joynal.academy",
+      "buttonText": "Join Now"
     }
-  ]
+  ],
+  "academicCourses": [
+  {
+    "title": "SSC Science 2026",
+    "description": "Comprehensive science preparation for SSC 2026.",
+    "image": "asset/images/Logo/ssc-science.png",
+    "link": "https://joynal.academy/ssc-science",
+    "buttonText": "Enroll Now"
+  },
+  {
+    "title": "HSC Business 2026",
+    "description": "Business stream preparation for HSC 2026 students.",
+    "image": "asset/images/Logo/hsc-business.png",
+    "link": "https://joynal.academy/hsc-business",
+    "buttonText": "Enroll Now"
+  },
+  {
+    "title": "HSC Science 2026",
+    "description": "Science stream preparation for HSC 2026 students.",
+    "image": "asset/images/Logo/hsc-science.png",
+    "link": "https://joynal.academy/hsc-science",
+    "buttonText": "Enroll Now"
+  }
+]
+
 }
